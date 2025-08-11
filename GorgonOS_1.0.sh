@@ -40,11 +40,11 @@ parted --script "${TARGET_DISK}" \
   mkpart ESP fat32 1MiB 513MiB \
   set 1 esp on
 
-# Compute swap end at (513MiB + SWAP_SIZE_GIB)
-SWAP_END_GIB=$(( 1 + SWAP_SIZE_GIB ))   # start at 1GiB for simplicity
+# Compute swap end (start 513MiB, size SWAP_SIZE_GIB)
+SWAP_END_MIB=$(( 513 + SWAP_SIZE_GIB * 1024 ))
 parted --script "${TARGET_DISK}" \
-  mkpart primary linux-swap 513MiB "${SWAP_END_GIB}GiB" \
-  mkpart primary "${SWAP_END_GIB}GiB" 100%
+  mkpart primary linux-swap 513MiB "${SWAP_END_MIB}MiB" \
+  mkpart primary "${SWAP_END_MIB}MiB" 100%
 
 EFI_PART="${TARGET_DISK}1"
 SWAP_PART="${TARGET_DISK}2"
