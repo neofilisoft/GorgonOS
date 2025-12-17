@@ -35,9 +35,9 @@ Powered by Linux Kernel (Ubuntu-Based)
 
 | Category       | Software                          |
 |----------------|-----------------------------------|
-| Gaming         | Steam, Lutris, Wine, Gamemode     |
-| Development    | VSCode, Git, Python, CUDA         |
-| Graphics       | GIMP, OBS Studio                  |
+| Gaming         | Steam, Lutris, Gamemode           |
+| Development    | Git, Python, CUDA                 |
+| Graphics       | GIMP, Blender                     |
 | Productivity   | Firefox, Thunderbird, LibreOffice |
 
 ## 🛠Installation
