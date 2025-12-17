@@ -22,7 +22,7 @@ Powered by Linux Kernel (Ubuntu-based)
   - Docker and virtualization support
 
 -  **Application Software**
-  - VLC Media Player
+   - VLC Media Player
 
 
 -  **User-Friendly UI**
