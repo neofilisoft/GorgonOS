@@ -7,22 +7,22 @@ Description
 ![GorgonOS Logo](https://sample.com/path/to/logo.png)
 
 **The Ultimate Hybrid OS for Gamers and Developers**  
-Powered by Linux Kernel (Ubuntu-Based)
+Powered by Linux Kernel (Ubuntu-based)
 
 ## Features
 
 - **Gaming Optimized**
-  - Pre-installed Steam, Lutris, Wine, and Proton
+  - Pre-installed Steam, Lutris/Proton
   - Game Mode for performance tuning
   - NVIDIA/AMD GPU driver support
 
 - **Developer Ready**
-  - Built-in tools: VSCode, Godot, Blender, CUDA
+  - Built-in tools: VSCode, Blender, CUDA
   - Supports Python, C++, Rust, and more
   - Docker and virtualization support
 
 -  **User-Friendly UI**
-  - Cinnamon Desktop with Windows-like layout
+  - KDE Plasma
   - Dark/Light theme switching
   - Gorgon Control Center
 
