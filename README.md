@@ -24,10 +24,11 @@ Powered by Linux Kernel (Ubuntu-based)
 -  **Application Software**
   - VLC Media Player
 
+
 -  **User-Friendly UI**
-  - KDE Plasma
-  - Dark/Light theme switching
-  - Gorgon Control Center
+   - KDE Plasma
+   - Dark/Light theme switching
+   - Gorgon Control Center
 
 - **Security Focused**
   - Full-disk encryption (LUKS)
