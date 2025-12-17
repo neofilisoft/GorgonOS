@@ -21,6 +21,9 @@ Powered by Linux Kernel (Ubuntu-based)
   - Supports Python, C++, Rust, and more
   - Docker and virtualization support
 
+-  **Application Software**
+-  VLC Media Player
+
 -  **User-Friendly UI**
   - KDE Plasma
   - Dark/Light theme switching
