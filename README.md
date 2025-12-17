@@ -6,7 +6,7 @@ Description
 
 ![GorgonOS Logo](https://sample.com/path/to/logo.png)
 
-**The Ultimate Hybrid OS for Gamers and Developers**  
+**The Hybrid OS for Gamers and Developers**  
 Powered by Linux Kernel (Ubuntu-based)
 
 ## Features
